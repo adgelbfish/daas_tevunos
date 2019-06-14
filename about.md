@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is the Daas Tevunos Blog of Avraham David Gelbfish
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Much thanks to Github for hosting this Blog.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[adg@adgelb.fish](mailto:adg@adgelb.fish)
